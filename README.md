@@ -7,6 +7,13 @@ Grasshopper definition:
 
 FFF fabrication:
 
+- material: PLA;
+- nozzle: 0.4 mm;
+- infill: 0;
+- perimeters: 3;
+- layer height: 0.2 mm (first layer 0.15 mm);
+- brim: 5 mm;
+- 
 ![IMG_20221206_182359](https://user-images.githubusercontent.com/85460283/205974125-e4f6b710-e9af-402c-b94c-0c0ea62186b4.jpg)
 
 
